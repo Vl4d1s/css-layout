@@ -1,0 +1,8 @@
+* {
+  /* 
+  The box-sizing CSS property sets how the total width and height of an element is calculated. 
+  See here: https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+  */
+  box-sizing: border-box;
+}
+
